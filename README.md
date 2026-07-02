@@ -18,7 +18,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Nandin12-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Nandin12-bit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nandin12-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
+
 
 <!-- Snake Game Repo View
 1--
@@ -26,8 +26,8 @@
 <ing src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake anination"/>
 </div>
 
-GitHub Trophies
-### 🔝 Top Contributed Repo
+GitHub Trophi
+### 🔝 Top Co
 ![](https://github-contributor-stats.vercel.app/api?username=Nandin12-bit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
